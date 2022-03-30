@@ -1,0 +1,69 @@
+C:\Users\USER\Desktop\Tesis-master\Prueba prototipo\bin\Debug\Prueba prototipo.exe.config
+C:\Users\USER\Desktop\Tesis-master\Prueba prototipo\bin\Debug\Prueba prototipo.exe
+C:\Users\USER\Desktop\Tesis-master\Prueba prototipo\bin\Debug\Prueba prototipo.pdb
+C:\Users\USER\Desktop\Tesis-master\Prueba prototipo\obj\Debug\Prueba prototipo.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Tesis-master\Prueba prototipo\obj\Debug\Prueba_prototipo.Form1.resources
+C:\Users\USER\Desktop\Tesis-master\Prueba prototipo\obj\Debug\Prueba_prototipo.Properties.Resources.resources
+C:\Users\USER\Desktop\Tesis-master\Prueba prototipo\obj\Debug\Prueba prototipo.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Tesis-master\Prueba prototipo\obj\Debug\Prueba prototipo.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Tesis-master\Prueba prototipo\obj\Debug\Prueba prototipo.exe
+C:\Users\USER\Desktop\Tesis-master\Prueba prototipo\obj\Debug\Prueba prototipo.pdb
+C:\Users\sulis\OneDrive\Escritorio\Tesis-master\Prueba prototipo\bin\Debug\Prueba prototipo.exe.config
+C:\Users\sulis\OneDrive\Escritorio\Tesis-master\Prueba prototipo\bin\Debug\Prueba prototipo.exe
+C:\Users\sulis\OneDrive\Escritorio\Tesis-master\Prueba prototipo\bin\Debug\Prueba prototipo.pdb
+C:\Users\sulis\OneDrive\Escritorio\Tesis-master\Prueba prototipo\obj\Debug\Prueba prototipo.csproj.AssemblyReference.cache
+C:\Users\sulis\OneDrive\Escritorio\Tesis-master\Prueba prototipo\obj\Debug\Prueba prototipo.csproj.SuggestedBindingRedirects.cache
+C:\Users\sulis\OneDrive\Escritorio\Tesis-master\Prueba prototipo\obj\Debug\Prueba_prototipo.Form1.resources
+C:\Users\sulis\OneDrive\Escritorio\Tesis-master\Prueba prototipo\obj\Debug\Prueba_prototipo.Properties.Resources.resources
+C:\Users\sulis\OneDrive\Escritorio\Tesis-master\Prueba prototipo\obj\Debug\Prueba prototipo.csproj.GenerateResource.cache
+C:\Users\sulis\OneDrive\Escritorio\Tesis-master\Prueba prototipo\obj\Debug\Prueba prototipo.csproj.CoreCompileInputs.cache
+C:\Users\sulis\OneDrive\Escritorio\Tesis-master\Prueba prototipo\obj\Debug\Prueba prototipo.exe
+C:\Users\sulis\OneDrive\Escritorio\Tesis-master\Prueba prototipo\obj\Debug\Prueba prototipo.pdb
+C:\Users\Guadalupe\Documents\Tesis-master\Prueba prototipo\bin\Debug\Prueba prototipo.exe.config
+C:\Users\Guadalupe\Documents\Tesis-master\Prueba prototipo\bin\Debug\Prueba prototipo.exe
+C:\Users\Guadalupe\Documents\Tesis-master\Prueba prototipo\bin\Debug\Prueba prototipo.pdb
+C:\Users\Guadalupe\Documents\Tesis-master\Prueba prototipo\obj\Debug\Prueba prototipo.csproj.AssemblyReference.cache
+C:\Users\Guadalupe\Documents\Tesis-master\Prueba prototipo\obj\Debug\Prueba prototipo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Guadalupe\Documents\Tesis-master\Prueba prototipo\obj\Debug\Prueba_prototipo.Form1.resources
+C:\Users\Guadalupe\Documents\Tesis-master\Prueba prototipo\obj\Debug\Prueba_prototipo.Properties.Resources.resources
+C:\Users\Guadalupe\Documents\Tesis-master\Prueba prototipo\obj\Debug\Prueba prototipo.csproj.GenerateResource.cache
+C:\Users\Guadalupe\Documents\Tesis-master\Prueba prototipo\obj\Debug\Prueba prototipo.csproj.CoreCompileInputs.cache
+C:\Users\Guadalupe\Documents\Tesis-master\Prueba prototipo\obj\Debug\Prueba prototipo.exe
+C:\Users\Guadalupe\Documents\Tesis-master\Prueba prototipo\obj\Debug\Prueba prototipo.pdb
+C:\Users\sulis\OneDrive\Escritorio\Tesis-master\Prueba prototipo\obj\Debug\Prueba_prototipo.Riego_automatico.resources
+C:\Users\flubo\Desktop\Tesis-master\Prueba prototipo\bin\Debug\Prueba prototipo.exe.config
+C:\Users\flubo\Desktop\Tesis-master\Prueba prototipo\bin\Debug\Prueba prototipo.exe
+C:\Users\flubo\Desktop\Tesis-master\Prueba prototipo\bin\Debug\Prueba prototipo.pdb
+C:\Users\flubo\Desktop\Tesis-master\Prueba prototipo\obj\Debug\Prueba prototipo.csprojAssemblyReference.cache
+C:\Users\flubo\Desktop\Tesis-master\Prueba prototipo\obj\Debug\Prueba_prototipo.Form1.resources
+C:\Users\flubo\Desktop\Tesis-master\Prueba prototipo\obj\Debug\Prueba_prototipo.Properties.Resources.resources
+C:\Users\flubo\Desktop\Tesis-master\Prueba prototipo\obj\Debug\Prueba_prototipo.Riego_automatico.resources
+C:\Users\flubo\Desktop\Tesis-master\Prueba prototipo\obj\Debug\Prueba prototipo.csproj.GenerateResource.cache
+C:\Users\flubo\Desktop\Tesis-master\Prueba prototipo\obj\Debug\Prueba prototipo.csproj.CoreCompileInputs.cache
+C:\Users\flubo\Desktop\Tesis-master\Prueba prototipo\obj\Debug\Prueba prototipo.exe
+C:\Users\flubo\Desktop\Tesis-master\Prueba prototipo\obj\Debug\Prueba prototipo.pdb
+C:\Users\flubo\Desktop\Tesis-master\Prueba prototipo\obj\Debug\Prueba_prototipo.Form2.resources
+C:\Users\Guadalupe\Desktop\Tesis-master\Prueba prototipo\bin\Debug\Prueba prototipo.exe.config
+C:\Users\Guadalupe\Desktop\Tesis-master\Prueba prototipo\bin\Debug\Prueba prototipo.exe
+C:\Users\Guadalupe\Desktop\Tesis-master\Prueba prototipo\bin\Debug\Prueba prototipo.pdb
+C:\Users\Guadalupe\Desktop\Tesis-master\Prueba prototipo\obj\Debug\Prueba prototipo.csproj.AssemblyReference.cache
+C:\Users\Guadalupe\Desktop\Tesis-master\Prueba prototipo\obj\Debug\Prueba prototipo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Guadalupe\Desktop\Tesis-master\Prueba prototipo\obj\Debug\Prueba_prototipo.Form1.resources
+C:\Users\Guadalupe\Desktop\Tesis-master\Prueba prototipo\obj\Debug\Prueba_prototipo.Form2.resources
+C:\Users\Guadalupe\Desktop\Tesis-master\Prueba prototipo\obj\Debug\Prueba_prototipo.Properties.Resources.resources
+C:\Users\Guadalupe\Desktop\Tesis-master\Prueba prototipo\obj\Debug\Prueba prototipo.csproj.GenerateResource.cache
+C:\Users\Guadalupe\Desktop\Tesis-master\Prueba prototipo\obj\Debug\Prueba prototipo.csproj.CoreCompileInputs.cache
+C:\Users\Guadalupe\Desktop\Tesis-master\Prueba prototipo\obj\Debug\Prueba prototipo.exe
+C:\Users\Guadalupe\Desktop\Tesis-master\Prueba prototipo\obj\Debug\Prueba prototipo.pdb
+C:\Users\flubo\Desktop\Nueva carpeta\Tesis-master\Prueba prototipo\bin\Debug\Prueba prototipo.exe.config
+C:\Users\flubo\Desktop\Nueva carpeta\Tesis-master\Prueba prototipo\bin\Debug\Prueba prototipo.exe
+C:\Users\flubo\Desktop\Nueva carpeta\Tesis-master\Prueba prototipo\bin\Debug\Prueba prototipo.pdb
+C:\Users\flubo\Desktop\Nueva carpeta\Tesis-master\Prueba prototipo\obj\Debug\Prueba prototipo.csprojAssemblyReference.cache
+C:\Users\flubo\Desktop\Nueva carpeta\Tesis-master\Prueba prototipo\obj\Debug\Prueba_prototipo.Carga.resources
+C:\Users\flubo\Desktop\Nueva carpeta\Tesis-master\Prueba prototipo\obj\Debug\Prueba_prototipo.Form1.resources
+C:\Users\flubo\Desktop\Nueva carpeta\Tesis-master\Prueba prototipo\obj\Debug\Prueba_prototipo.Form2.resources
+C:\Users\flubo\Desktop\Nueva carpeta\Tesis-master\Prueba prototipo\obj\Debug\Prueba_prototipo.Properties.Resources.resources
+C:\Users\flubo\Desktop\Nueva carpeta\Tesis-master\Prueba prototipo\obj\Debug\Prueba prototipo.csproj.GenerateResource.cache
+C:\Users\flubo\Desktop\Nueva carpeta\Tesis-master\Prueba prototipo\obj\Debug\Prueba prototipo.csproj.CoreCompileInputs.cache
+C:\Users\flubo\Desktop\Nueva carpeta\Tesis-master\Prueba prototipo\obj\Debug\Prueba prototipo.exe
+C:\Users\flubo\Desktop\Nueva carpeta\Tesis-master\Prueba prototipo\obj\Debug\Prueba prototipo.pdb
